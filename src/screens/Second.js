@@ -73,7 +73,7 @@ export default function PokemonDetails({ route}) {
   );
 }
 
-// Funciones para formatear y colorear los datos
+
 function formatStatName(statName) {
   const names = {
     'hp': 'HP',
